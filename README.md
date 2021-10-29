@@ -9,4 +9,5 @@ Week6 - Multiple Linear Regression - Atmos CO2 data [python script](https://gith
 
 Week8 - Data visualization-NETCDF [python script](https://github.com/eas2655-taka/python_scripts/blob/main/F2021/Week8_exercise1_NETCDF.ipynb)  
 
-Week10 - Fourier Analysis - Week10_Exercise2_FFT [python script](https://github.com/eas2655-taka/python_scripts/blob/main/F2021/Week10_Exercise2_FFT.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eas2655-taka/python_scripts/HEAD?labpath=%2FF2021%2FWeek10_Exercise2_FFT.ipynb)
+Week10 - Fourier Analysis - Week10_exercise1_Fourier_Atl_temp [python script](https://github.com/eas2655-taka/python_scripts/blob/main/F2021/Week10_exercise1_Fourier_Atl_temp.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eas2655-taka/python_scripts/HEAD?labpath=%2FF2021%2FWeek10_exercise1_Fourier_Atl_temp.ipynb) 
+- Week10_Exercise2_FFT [python script](https://github.com/eas2655-taka/python_scripts/blob/main/F2021/Week10_Exercise2_FFT.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eas2655-taka/python_scripts/HEAD?labpath=%2FF2021%2FWeek10_Exercise2_FFT.ipynb)
